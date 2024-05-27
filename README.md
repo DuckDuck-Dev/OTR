@@ -1,4 +1,4 @@
-# OTR Project (Open Teacher Review Project)
+# 🦦 OTR Project (Open Teacher Review Project)
 
 Vítejte v projektu Open Teacher Review! Naším posláním je vytvořit transparentní a společnou platformu pro hodnocení pedagogů a jejich výuky. Ať už jste student, rodič nebo kolega učitel, naše uživatelsky přívětivé rozhraní vám umožní sdílet vaše zkušenosti a názory.
 
