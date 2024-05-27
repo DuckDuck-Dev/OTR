@@ -1,6 +1,6 @@
-# OEEP (Open Edu Evaluation Project)
+# OTR Project (Open Teacher Review Project)
 
-Vítejte v projektu Open Edu Evaluation! Naším posláním je vytvořit transparentní a společnou platformu pro hodnocení pedagogů a jejich výuky. Ať už jste student, rodič nebo kolega učitel, naše uživatelsky přívětivé rozhraní vám umožní sdílet vaše zkušenosti a názory.
+Vítejte v projektu Open Teacher Review! Naším posláním je vytvořit transparentní a společnou platformu pro hodnocení pedagogů a jejich výuky. Ať už jste student, rodič nebo kolega učitel, naše uživatelsky přívětivé rozhraní vám umožní sdílet vaše zkušenosti a názory.
 
 ## Funkce
 - **Recenze učitelů**: Podělte se o své názory na konkrétní učitele. Byl jejich styl výuky poutavý? Poskytli vám užitečnou zpětnou vazbu? Dejte komunitě vědět!
@@ -15,7 +15,7 @@ Vítejte v projektu Open Edu Evaluation! Naším posláním je vytvořit transpa
 
 ---
 
-Welcome to the **Open Edu Evaluation Project**! Our mission is to create a transparent and collaborative platform for evaluating educators and their classes. Whether you're a student, parent, or fellow teacher, our user-friendly interface allows you to share your experiences and insights.
+Welcome to the **Open Teacher Review Project**! Our mission is to create a transparent and collaborative platform for evaluating educators and their classes. Whether you're a student, parent, or fellow teacher, our user-friendly interface allows you to share your experiences and insights.
 
 ## Features:
 - **Teacher Reviews**: Share your thoughts on specific teachers. Was their teaching style engaging? Did they provide helpful feedback? Let the community know!
