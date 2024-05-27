@@ -1,5 +1,20 @@
 # OEEP (Open Edu Evaluation Project)
 
+Vítejte v projektu Open Edu Evaluation! Naším posláním je vytvořit transparentní a společnou platformu pro hodnocení pedagogů a jejich výuky. Ať už jste student, rodič nebo kolega učitel, naše uživatelsky přívětivé rozhraní vám umožní sdílet vaše zkušenosti a názory.
+
+## Funkce
+- **Recenze učitelů**: Podělte se o své názory na konkrétní učitele. Byl jejich styl výuky poutavý? Poskytli vám užitečnou zpětnou vazbu? Dejte komunitě vědět!
+- **Hodnocení výuky**: Ohodnoťte jednotlivé předměty. Byl obsah relevantní? Byly úkoly dobře strukturované? Na vašem názoru záleží!
+- **Veřejné a soukromé komentáře**: Vyberte si, zda má být vaše zpětná vazba veřejná nebo soukromá. Veřejné komentáře pomáhají ostatním činit informovaná rozhodnutí, zatímco soukromé komentáře umožňují diskrétní komunikaci.
+- **Obousměrná komunikace**: Profesoři a učitelé mohou na recenze reagovat. Zapojte se do konstruktivní konverzace a řešte připomínky přímo.
+
+## Jak přispět:
+1. **Fork this repository**: Začněte vytvořením vlastní kopie projektu.
+2. **Posílejte pull requesty**: Pomozte nám vylepšit kódovou základnu, opravit chyby nebo přidat nové funkce.
+3. **Šířte slovo**: Sdílejte projekt se svými kolegy, studenty a vzdělávacími komunitami.
+
+---
+
 Welcome to the **Open Edu Evaluation Project**! Our mission is to create a transparent and collaborative platform for evaluating educators and their classes. Whether you're a student, parent, or fellow teacher, our user-friendly interface allows you to share your experiences and insights.
 
 ## Features:
