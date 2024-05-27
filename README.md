@@ -11,7 +11,7 @@ Vítejte v projektu Open Teacher Review! Naším posláním je vytvořit transpa
 ## Jak přispět:
 1. **Fork this repository**: Začněte vytvořením vlastní kopie projektu.
 2. **Posílejte pull requesty**: Pomozte nám vylepšit kódovou základnu, opravit chyby nebo přidat nové funkce.
-3. **Šířte slovo**: Sdílejte projekt se svými kolegy, studenty a vzdělávacími komunitami.
+3. **Šiřte slovo**: Sdílejte projekt se svými kolegy, studenty a vzdělávacími komunitami.
 
 ---
 
